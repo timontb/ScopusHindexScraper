@@ -1,5 +1,5 @@
 # Scopus-h-index-Scraper
-A simple web scrapping script to extract h-index, citations &amp; number of publications from Scopus Author Profile
+A simple web scrapping script (able to handle CloudFlare) to extract h-index, citations &amp; number of publications from Scopus Author Profile
 
 An input file (Excel xlsx) must be prepared beforehand with the Authors Lastname, Firstname and Affiliation.
 # Requirements
